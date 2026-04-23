@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Arrow Function</h1>
+    <script>
+        let x =["Apple","Banana","Graps"]
+
+        console.log(x)
+        console.log(x[0])
+        console.log(x[1])
+
+        console.log('----------------------')
+        
+        for (let i=0, i<=x.length;i++){
+            console.log(x[i])
+        }
+
+
+
+        const multiply=(a,b)=>{
+            return a*b
+        }
+
+
+
+        const sum= (a,b,c)=>{
+            result=a,b,c
+            return result
+        }
+
+        console.log("Multiplication: ",multiply(20,50))
+        console.log("Result: ",multiply(20,50))
+
+
+
+        {
+        hello()
+        hello()
+        hello()
+        add(20,50)
+
+
+
+        console.log("Number of students",count())
+
+
+        console.log("Sum of two numbers: ",c)
+    }
+    </script>
+
+</body>
+</html>
