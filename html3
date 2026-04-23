@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charsed="UTF-8">
+    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <title>Document</title>
+
+<style>
+
+    .boxA{
+        display: flex;
+        gap: 20px;
+    }
+    .box1{ width: auto;
+            height: auto;
+            margin: auto;
+            background-color: dark blue;
+            background: Yellow;
+            border: 5px;
+            text-align: center;
+            text-shadow: 9px 5px 5px red;
+            padding: 50px;
+    }
+</style>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&family=Boldonse&display=swap" rel="stylesheet">
+
+<style>
+    body{
+            border: 30px red;
+            background-image: url("Screenshot (1).png");
+            background-repeat:no-repeat;
+            background-size:cover;
+            background-size: 600px 600px;
+            background-position:50px 50px;
+            background-attachment: fixed;
+        }
+
+
+
+.box1 {
+            width: auto;
+            height: auto;
+            margin: auto;
+            background-color: dark blue;
+            background: Yellow;
+            border: 5px;
+            text-align: center;
+            text-shadow: 9px 5px 5px red;
+            padding: 50px;
+            opacity: 80%;
+
+            column-gap: 20px;
+            text-align: center;
+            word-break: break-all;
+
+            
+            
+            font-family:"Bitcount Grid Double",system-ui;
+            font-optical-sizing:auto;
+            font-weight:weight;
+            font-style:normal;
+            font-size:auto;
+            font-variation-settings:
+            "slnt" 0,
+            "CRSV" 0.5,
+            "ELSH" 0,
+            "ELXP" 0;
+        }
+        #w1{
+            font-size:150px;
+        }
+        #w2{
+            font-size:500px;
+            text-shadow: 10px 10px 5px;
+        }
+
+
+
+</style>
+</head>
+<body>
+    <div class="box1" style="border: 5px solid red">
+    <h1>  krish has not taken admission  he is good boy  because he's helping everybody  and anytime can't think  </h1>
+    </div>
+</body>
+</head>
